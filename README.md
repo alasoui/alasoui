@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alaa Soui</h1>
-<h3 align="center">A passionate JAVASCRIPT FULL STACK SOFTWARE DEVELOPER from Tunisia</h3>
+<h3 align="center">A passionate JAVASCRIPT FULL STACK SOFTWARE DEVELOPER | AWS Cloud Practitioner from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alasoui&label=Profile%20views&color=0e75b6&style=flat" alt="alasoui" /> </p>
 
